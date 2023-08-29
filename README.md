@@ -1,2 +1,2 @@
-# mlops
-Playground for MLOps
+## MLOps
+Playground for MLOps.
