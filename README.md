@@ -8,14 +8,13 @@ Playground for MLOps.
 - NmPy
 - Pandas
 - SciPy
--
 
 ### Data Visualization
 
-- Matplotlib: A widely used library for creating static, interactive, and animated visualizations in Python.
-- Seaborn: Built on top of Matplotlib, Seaborn provides a higher-level interface for creating informative and attractive statistical graphics.
-- Plotly: Enables the creation of interactive, web-based visualizations that can be embedded in web applications.
-- Tableau: A powerful tool for creating interactive dashboards and visualizations without requiring extensive programming knowledge.
+- Matplotlib
+- Seaborn
+- Plotly
+- Tableau
 
 ### Data Analysis Libraries:
 
